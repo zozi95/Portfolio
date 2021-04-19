@@ -8,7 +8,6 @@
 
 - **Travelly Website** [#click](https://frosty-noyce-8a9ea3.netlify.app/)
 - **Elena Joy** [#click](https://flamboyant-neumann-72ec6c.netlify.app/)
-- **Travelly Website** [#click](https://frosty-noyce-8a9ea3.netlify.app/)
 - **TodoList** [#click](https://kyun-todo.netlify.app/)
 - **Portfolio** [#click](https://kyun-portfolio.netlify.app/)
 - **BeatMaker** [#click](https://kyun-beatmaker.netlify.app/)
